@@ -1,3 +1,5 @@
+![Volodymyr-putin (1)](https://user-images.githubusercontent.com/97968834/163408358-7b965a0c-9019-4ced-ba6b-e23b05b16f64.png)
+
 - 👋 Hi, I’m @datasciritwik
 - 👀 I’m interested in ML, AI
 - 🌱 I’m currently learning Data Science
